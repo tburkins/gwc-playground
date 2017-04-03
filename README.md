@@ -1,5 +1,4 @@
 # WSOI Girls Who Code Playground
-
 This is a project for the WSOI GWC club to clone and use to experiment with 2d canvas drawing.
 
 ## Files
