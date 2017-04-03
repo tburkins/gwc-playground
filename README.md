@@ -13,4 +13,4 @@ whatever you like.  This a playground to experiment with any drawing functions y
 want to use.
 
 ## Canvas reference
-The W3Schools provides a [HTML Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp)
+The W3Schools provides an [HTML Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp)
