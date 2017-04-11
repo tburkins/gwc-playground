@@ -1,15 +1,22 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>GWC Playground</title>
-        <script type="text/javascript" src="./playground.js" ></script>
-        <script type="text/javascript" src="./canvas-helper.js" ></script>
-    </head>
-    <body onload="onDraw()">
-        <h2>GWC Playground</h2>
-        <canvas onload="onDraw()" id="playground-canvas" width="600" height="400" style="border:1px solid #000000"></canvas>
-        <br />
-        <button onclick="onDraw()">Draw</button>
-        <button onclick="onClear()">Clear</button>
-    </body>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GWC Playground</title>
+
+    <!-- Our Javascript files -->
+    <script type="text/javascript" src="./playground.js"></script>
+</head>
+
+<body onload="onDraw()">
+    <h2>GWC Playground</h2>
+    <canvas id="playground-canvas" width="600" height="400" style="border:1px solid #000000"></canvas>
+    <br />
+    <button onclick="onDraw()">Draw</button>
+    <button onclick="onClear()">Clear</button>
+</body>
+
 </html>
